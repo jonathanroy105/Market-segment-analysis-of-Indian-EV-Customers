@@ -1,0 +1,151 @@
+Customer ID,Age Group,Income Group,Profession,Geography,Education Level,Preferred EV Type,Environment Consciousness,Technology Adoption,Intention to Purchase
+CUST001,46-55,High (Above 20 lakhs),Government Employee,Rural,High School,Scooter,3,3,1
+CUST002,18-25,Upper Middle (10-20 lakhs),Business Owner,Urban,Master's Degree,E-Bike,1,1,1
+CUST003,26-35,Middle (3-10 lakhs),Government Employee,East India,Bachelor's Degree,Scooter,4,2,3
+CUST004,26-35,Upper Middle (10-20 lakhs),Business Owner,South India,PhD,Bike,3,3,4
+CUST005,56-65,Low (Below 3 lakhs),Student,South India,Master's Degree,E-Bike,1,1,4
+CUST006,56-65,Low (Below 3 lakhs),Student,West India,Master's Degree,Bike,5,2,4
+CUST007,66+,Middle (3-10 lakhs),Professional (IT),Urban,Bachelor's Degree,Bike,1,4,5
+CUST008,18-25,Upper Middle (10-20 lakhs),Government Employee,West India,PhD,Scooter,5,5,4
+CUST009,36-45,Low (Below 3 lakhs),Retired,West India,High School,Car,4,1,4
+CUST010,18-25,Low (Below 3 lakhs),Government Employee,South India,High School,Scooter,3,1,3
+CUST011,26-35,Low (Below 3 lakhs),Government Employee,North India,Master's Degree,E-Bike,2,4,2
+CUST012,46-55,Upper Middle (10-20 lakhs),Professional (IT),South India,Bachelor's Degree,Bike,5,4,5
+CUST013,18-25,Low (Below 3 lakhs),Professional (IT),South India,Master's Degree,E-Bike,3,3,1
+CUST014,26-35,High (Above 20 lakhs),Student,South India,Bachelor's Degree,Car,2,5,3
+CUST015,46-55,High (Above 20 lakhs),Retired,West India,Master's Degree,Bike,2,5,4
+CUST016,46-55,Low (Below 3 lakhs),Government Employee,North India,Bachelor's Degree,E-Bike,5,1,1
+CUST017,26-35,Low (Below 3 lakhs),Professional (Healthcare),South India,Master's Degree,Scooter,3,4,3
+CUST018,46-55,Upper Middle (10-20 lakhs),Business Owner,Urban,Bachelor's Degree,Bike,2,5,5
+CUST019,56-65,Low (Below 3 lakhs),Student,Urban,Master's Degree,Car,1,2,4
+CUST020,18-25,Low (Below 3 lakhs),Government Employee,North India,Bachelor's Degree,E-Bike,1,5,5
+CUST021,56-65,High (Above 20 lakhs),Government Employee,East India,Bachelor's Degree,Bike,3,1,3
+CUST022,56-65,Upper Middle (10-20 lakhs),Government Employee,West India,High School,Car,4,5,1
+CUST023,36-45,Middle (3-10 lakhs),Retired,East India,High School,Car,1,3,2
+CUST024,18-25,High (Above 20 lakhs),Government Employee,South India,High School,Bike,5,4,4
+CUST025,66+,High (Above 20 lakhs),Student,East India,Master's Degree,Bike,3,1,5
+CUST026,36-45,Low (Below 3 lakhs),Retired,Rural,PhD,Car,2,1,1
+CUST027,18-25,Low (Below 3 lakhs),Professional (IT),West India,High School,E-Bike,1,4,1
+CUST028,18-25,Middle (3-10 lakhs),Government Employee,Urban,High School,E-Bike,3,4,2
+CUST029,66+,Middle (3-10 lakhs),Retired,Rural,Bachelor's Degree,Scooter,3,4,3
+CUST030,46-55,Middle (3-10 lakhs),Government Employee,Urban,Master's Degree,Car,4,1,2
+CUST031,56-65,Upper Middle (10-20 lakhs),Retired,East India,PhD,E-Bike,2,4,2
+CUST032,56-65,Upper Middle (10-20 lakhs),Professional (IT),North India,Master's Degree,Scooter,2,4,3
+CUST033,46-55,High (Above 20 lakhs),Retired,East India,Bachelor's Degree,Bike,2,1,3
+CUST034,66+,Low (Below 3 lakhs),Student,Urban,High School,Bike,5,1,3
+CUST035,36-45,Middle (3-10 lakhs),Government Employee,Rural,High School,Scooter,3,3,1
+CUST036,46-55,Middle (3-10 lakhs),Government Employee,Rural,High School,E-Bike,5,5,1
+CUST037,56-65,High (Above 20 lakhs),Professional (IT),East India,High School,E-Bike,5,2,4
+CUST038,46-55,Low (Below 3 lakhs),Retired,Urban,High School,Car,3,1,4
+CUST039,66+,Low (Below 3 lakhs),Professional (Healthcare),West India,Master's Degree,Bike,2,2,2
+CUST040,46-55,Middle (3-10 lakhs),Professional (IT),West India,Bachelor's Degree,Scooter,3,3,2
+CUST041,56-65,Middle (3-10 lakhs),Retired,South India,PhD,E-Bike,4,5,4
+CUST042,18-25,Middle (3-10 lakhs),Professional (IT),South India,Master's Degree,Bike,3,5,5
+CUST043,26-35,Low (Below 3 lakhs),Student,East India,Master's Degree,E-Bike,3,5,2
+CUST044,26-35,High (Above 20 lakhs),Professional (IT),North India,High School,E-Bike,1,3,5
+CUST045,18-25,Middle (3-10 lakhs),Professional (IT),East India,PhD,Scooter,4,4,5
+CUST046,26-35,High (Above 20 lakhs),Government Employee,Urban,Bachelor's Degree,E-Bike,1,5,3
+CUST047,18-25,Upper Middle (10-20 lakhs),Government Employee,East India,PhD,Scooter,2,5,1
+CUST048,26-35,Low (Below 3 lakhs),Professional (IT),North India,Master's Degree,E-Bike,2,3,4
+CUST049,46-55,High (Above 20 lakhs),Business Owner,East India,Bachelor's Degree,Bike,4,4,1
+CUST050,36-45,High (Above 20 lakhs),Professional (Healthcare),North India,Bachelor's Degree,E-Bike,5,5,4
+CUST051,36-45,High (Above 20 lakhs),Government Employee,West India,High School,Scooter,3,5,1
+CUST052,26-35,High (Above 20 lakhs),Business Owner,North India,High School,Scooter,1,4,4
+CUST053,26-35,High (Above 20 lakhs),Government Employee,East India,PhD,Bike,4,1,1
+CUST054,66+,Low (Below 3 lakhs),Student,West India,Bachelor's Degree,E-Bike,1,1,3
+CUST055,46-55,Middle (3-10 lakhs),Government Employee,North India,PhD,Scooter,3,5,5
+CUST056,46-55,Low (Below 3 lakhs),Professional (IT),West India,Bachelor's Degree,Car,5,2,4
+CUST057,26-35,Middle (3-10 lakhs),Government Employee,North India,High School,Bike,1,4,5
+CUST058,56-65,Low (Below 3 lakhs),Professional (IT),East India,Master's Degree,Scooter,4,4,4
+CUST059,18-25,Middle (3-10 lakhs),Student,North India,High School,Bike,3,2,4
+CUST060,36-45,High (Above 20 lakhs),Professional (Healthcare),East India,High School,Bike,3,4,3
+CUST061,66+,Middle (3-10 lakhs),Retired,South India,Master's Degree,Scooter,5,3,1
+CUST062,46-55,High (Above 20 lakhs),Professional (IT),South India,Bachelor's Degree,Scooter,4,4,4
+CUST063,46-55,Middle (3-10 lakhs),Business Owner,Urban,PhD,Car,3,4,1
+CUST064,56-65,Middle (3-10 lakhs),Business Owner,East India,High School,Bike,1,4,3
+CUST065,66+,High (Above 20 lakhs),Professional (Healthcare),Urban,PhD,Bike,2,1,2
+CUST066,56-65,High (Above 20 lakhs),Business Owner,Urban,Master's Degree,Car,4,3,5
+CUST067,26-35,Upper Middle (10-20 lakhs),Professional (IT),South India,PhD,E-Bike,1,4,4
+CUST068,18-25,Upper Middle (10-20 lakhs),Retired,North India,High School,Car,5,3,3
+CUST069,26-35,Low (Below 3 lakhs),Student,North India,Master's Degree,Bike,5,3,1
+CUST070,26-35,Middle (3-10 lakhs),Government Employee,West India,Bachelor's Degree,Bike,3,3,4
+CUST071,26-35,High (Above 20 lakhs),Business Owner,Rural,Bachelor's Degree,E-Bike,5,2,1
+CUST072,66+,Upper Middle (10-20 lakhs),Retired,East India,PhD,Scooter,2,4,2
+CUST073,66+,Upper Middle (10-20 lakhs),Retired,West India,PhD,Bike,1,1,4
+CUST074,26-35,Upper Middle (10-20 lakhs),Retired,Urban,Bachelor's Degree,E-Bike,4,1,5
+CUST075,46-55,Low (Below 3 lakhs),Professional (Healthcare),West India,Master's Degree,E-Bike,3,1,4
+CUST076,36-45,Upper Middle (10-20 lakhs),Student,Urban,Master's Degree,Scooter,4,1,5
+CUST077,66+,Upper Middle (10-20 lakhs),Business Owner,Rural,Master's Degree,Car,1,4,1
+CUST078,36-45,High (Above 20 lakhs),Professional (IT),South India,PhD,Bike,2,1,4
+CUST079,26-35,Low (Below 3 lakhs),Professional (IT),North India,High School,Bike,1,3,3
+CUST080,26-35,High (Above 20 lakhs),Government Employee,North India,High School,E-Bike,1,2,3
+CUST081,46-55,Low (Below 3 lakhs),Retired,North India,Master's Degree,E-Bike,3,5,2
+CUST082,26-35,Low (Below 3 lakhs),Professional (IT),Urban,High School,Scooter,4,1,3
+CUST083,46-55,Upper Middle (10-20 lakhs),Professional (IT),West India,High School,Bike,1,5,2
+CUST084,66+,Upper Middle (10-20 lakhs),Professional (Healthcare),South India,High School,Scooter,1,5,1
+CUST085,36-45,Low (Below 3 lakhs),Professional (Healthcare),Urban,High School,Bike,2,5,5
+CUST086,26-35,Low (Below 3 lakhs),Professional (IT),Urban,Bachelor's Degree,Scooter,5,3,1
+CUST087,66+,High (Above 20 lakhs),Student,South India,Master's Degree,Bike,2,1,5
+CUST088,46-55,Low (Below 3 lakhs),Professional (Healthcare),West India,Bachelor's Degree,Car,4,4,5
+CUST089,18-25,Upper Middle (10-20 lakhs),Government Employee,Urban,High School,Scooter,4,3,2
+CUST090,18-25,Upper Middle (10-20 lakhs),Retired,North India,Master's Degree,E-Bike,3,4,3
+CUST091,18-25,Middle (3-10 lakhs),Government Employee,Urban,Master's Degree,Scooter,5,1,3
+CUST092,46-55,Upper Middle (10-20 lakhs),Business Owner,Rural,Bachelor's Degree,Bike,4,3,2
+CUST093,56-65,Upper Middle (10-20 lakhs),Professional (IT),North India,Master's Degree,Bike,5,5,2
+CUST094,36-45,High (Above 20 lakhs),Business Owner,North India,PhD,E-Bike,2,3,1
+CUST095,18-25,Low (Below 3 lakhs),Student,South India,PhD,E-Bike,4,3,2
+CUST096,36-45,Upper Middle (10-20 lakhs),Professional (IT),Urban,Master's Degree,E-Bike,1,1,3
+CUST097,66+,Low (Below 3 lakhs),Professional (Healthcare),Rural,Master's Degree,Scooter,4,5,2
+CUST098,46-55,Middle (3-10 lakhs),Business Owner,East India,PhD,Scooter,5,5,2
+CUST099,66+,Upper Middle (10-20 lakhs),Business Owner,Urban,Bachelor's Degree,Bike,4,2,5
+CUST100,66+,Middle (3-10 lakhs),Professional (Healthcare),North India,Master's Degree,E-Bike,3,2,2
+CUST101,18-25,Middle (3-10 lakhs),Professional (Healthcare),Urban,Master's Degree,E-Bike,1,4,1
+CUST102,56-65,High (Above 20 lakhs),Professional (IT),West India,PhD,Car,3,2,2
+CUST103,56-65,Low (Below 3 lakhs),Professional (Healthcare),North India,PhD,Car,2,1,4
+CUST104,46-55,Middle (3-10 lakhs),Government Employee,Urban,High School,Bike,4,3,4
+CUST105,26-35,High (Above 20 lakhs),Retired,Rural,High School,E-Bike,4,5,5
+CUST106,46-55,High (Above 20 lakhs),Professional (IT),West India,Bachelor's Degree,E-Bike,2,3,5
+CUST107,18-25,Low (Below 3 lakhs),Student,North India,Master's Degree,Bike,3,1,4
+CUST108,36-45,Low (Below 3 lakhs),Business Owner,Rural,Master's Degree,Scooter,1,3,5
+CUST109,36-45,Middle (3-10 lakhs),Business Owner,Urban,Bachelor's Degree,Car,3,5,5
+CUST110,66+,High (Above 20 lakhs),Professional (Healthcare),East India,High School,Bike,5,2,3
+CUST111,66+,High (Above 20 lakhs),Retired,East India,Master's Degree,E-Bike,3,4,3
+CUST112,26-35,High (Above 20 lakhs),Retired,East India,Master's Degree,Scooter,1,5,2
+CUST113,46-55,Middle (3-10 lakhs),Retired,West India,PhD,Bike,4,5,4
+CUST114,26-35,Low (Below 3 lakhs),Professional (IT),East India,Master's Degree,E-Bike,3,5,1
+CUST115,66+,High (Above 20 lakhs),Professional (IT),Rural,Bachelor's Degree,Car,2,5,4
+CUST116,66+,Upper Middle (10-20 lakhs),Student,Urban,High School,E-Bike,1,1,4
+CUST117,26-35,Upper Middle (10-20 lakhs),Professional (IT),North India,High School,Scooter,4,5,3
+CUST118,46-55,High (Above 20 lakhs),Professional (Healthcare),Rural,Bachelor's Degree,Scooter,1,3,3
+CUST119,46-55,Upper Middle (10-20 lakhs),Government Employee,West India,Bachelor's Degree,Car,2,1,5
+CUST120,18-25,Low (Below 3 lakhs),Student,Urban,Bachelor's Degree,Bike,5,2,1
+CUST121,56-65,High (Above 20 lakhs),Professional (Healthcare),Urban,High School,Bike,1,3,3
+CUST122,46-55,Middle (3-10 lakhs),Business Owner,East India,PhD,E-Bike,1,3,5
+CUST123,56-65,Upper Middle (10-20 lakhs),Professional (IT),Urban,PhD,Car,3,3,1
+CUST124,46-55,High (Above 20 lakhs),Retired,Rural,Master's Degree,Car,2,3,3
+CUST125,18-25,Low (Below 3 lakhs),Professional (Healthcare),South India,PhD,E-Bike,2,1,4
+CUST126,26-35,Low (Below 3 lakhs),Professional (IT),Urban,PhD,Bike,5,2,4
+CUST127,18-25,Low (Below 3 lakhs),Business Owner,West India,Master's Degree,Car,2,2,1
+CUST128,66+,Upper Middle (10-20 lakhs),Student,East India,Bachelor's Degree,E-Bike,1,5,1
+CUST129,66+,Middle (3-10 lakhs),Retired,East India,High School,Car,5,4,3
+CUST130,56-65,Upper Middle (10-20 lakhs),Retired,Urban,PhD,Scooter,2,1,3
+CUST131,26-35,Upper Middle (10-20 lakhs),Student,South India,Bachelor's Degree,Scooter,5,2,1
+CUST132,18-25,Low (Below 3 lakhs),Professional (Healthcare),Rural,Master's Degree,Scooter,2,1,1
+CUST133,66+,Upper Middle (10-20 lakhs),Professional (IT),Urban,PhD,Car,2,1,5
+CUST134,66+,Middle (3-10 lakhs),Government Employee,North India,High School,E-Bike,3,5,5
+CUST135,18-25,Middle (3-10 lakhs),Business Owner,Rural,Master's Degree,E-Bike,2,2,5
+CUST136,36-45,High (Above 20 lakhs),Student,South India,Master's Degree,Bike,5,4,4
+CUST137,18-25,High (Above 20 lakhs),Professional (IT),East India,Bachelor's Degree,Car,1,4,4
+CUST138,56-65,Low (Below 3 lakhs),Government Employee,West India,High School,Scooter,3,4,5
+CUST139,56-65,Middle (3-10 lakhs),Professional (Healthcare),East India,Bachelor's Degree,Scooter,2,3,5
+CUST140,18-25,Middle (3-10 lakhs),Retired,North India,Bachelor's Degree,Bike,2,2,1
+CUST141,36-45,Low (Below 3 lakhs),Retired,Rural,Master's Degree,Bike,5,3,4
+CUST142,46-55,High (Above 20 lakhs),Government Employee,South India,PhD,Scooter,3,3,5
+CUST143,26-35,Upper Middle (10-20 lakhs),Business Owner,South India,Bachelor's Degree,Scooter,2,3,2
+CUST144,66+,Middle (3-10 lakhs),Government Employee,Urban,Master's Degree,E-Bike,1,5,3
+CUST145,36-45,Upper Middle (10-20 lakhs),Government Employee,East India,Bachelor's Degree,Car,1,5,5
+CUST146,26-35,Upper Middle (10-20 lakhs),Business Owner,Rural,PhD,Scooter,2,1,4
+CUST147,46-55,Middle (3-10 lakhs),Retired,Urban,PhD,Scooter,1,1,5
+CUST148,56-65,Low (Below 3 lakhs),Business Owner,South India,Master's Degree,Car,3,2,2
+CUST149,26-35,Low (Below 3 lakhs),Retired,North India,Bachelor's Degree,Bike,2,2,1
+CUST150,26-35,High (Above 20 lakhs),Business Owner,Rural,Bachelor's Degree,Bike,5,5,4
