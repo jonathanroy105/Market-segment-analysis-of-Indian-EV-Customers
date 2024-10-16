@@ -1,4 +1,4 @@
-This minor project presents a comprehensive market segmentation analysis of the Indian electric vehicle
+This repository contains comprehensive market segmentation analysis of the Indian electric vehicle
 (EV) industry using the K-Means clustering algorithm. The project aims to identify distinct
 customer segments based on demographic, psychographic, and behavioral factors, such as age
 group, income level, technology adoption, and environmental consciousness. Four unique market
